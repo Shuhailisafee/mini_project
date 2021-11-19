@@ -1,8 +1,5 @@
-name: base
+name: streamlit-conda-minimal
 channels:
-  - bioconda
-  - plotly
-  - anaconda
   - conda-forge
   - defaults
 dependencies:
