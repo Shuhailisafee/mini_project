@@ -8,4 +8,4 @@ Install the dependencies from requirements.txt
 ## Run the program
 ```sh
 streamlit run app.py
-```
+```"# mini_project" 
